@@ -4,3 +4,6 @@
 [submodule "accordian-q11"]
 	path = accordian-q11
 	url = https://github.com/imran2522/accordian-q11.git
+[submodule "dice-roller-q111"]
+	path = dice-roller-q111
+	url = git@github.com:imran2522/dice-roller-q111.git
